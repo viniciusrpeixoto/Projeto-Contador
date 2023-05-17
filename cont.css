@@ -8,6 +8,7 @@ color: rgb(171, 173, 173);
 color: black;
 }
 header {
+    
     display: flex;
     justify-content: center;
     align-items: center;
